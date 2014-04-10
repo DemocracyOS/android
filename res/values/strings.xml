@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DemocraciaOS</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <color name="titlebackgroundcolor">#409797</color>
+    <color name="titletextcolor">#FFFF00</color>
+</resources>
